@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgb(20, 218, 36), cyan);
+}
+canvas{
+    box-shadow: 10px 10px 10px darkgray;
+    border-radius: 7px;
+    margin-top: 40px;
+}
+#status
+{
+font-size: 18px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}

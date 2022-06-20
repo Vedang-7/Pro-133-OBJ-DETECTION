@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to bottom right, pink, cyan);
+    background-position: center;
+    text-align: center;  
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#dog_cat{
+   text-align: center;
+   margin-top: 25px;
+  
+}
+#dog_cat{
+    text-align: center;
+    margin-top: 25px;
+}
+#apple_banana{
+    text-align: center;
+    margin-top: 25px;
+}
+ #computer{
+    text-align: center;
+    margin-top: 25px;
+}
+#wardrobe{
+    text-align: center;
+    margin-top: 25px;
+}
+#television{
+    text-align: center;
+    margin-top: 25px;
+}
